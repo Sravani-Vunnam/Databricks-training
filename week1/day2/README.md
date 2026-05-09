@@ -1,4 +1,4 @@
-# Databricks Training – Day 11
+# Databricks Training – Day 2
 
 This repository contains the SQL practice queries completed during Day 11 of the Databricks Training program provided through our college.
 
